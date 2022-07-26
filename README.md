@@ -34,23 +34,6 @@ sh ./SetupCondaAIEnvironment.sh
 Jupyter Notebook
 ```
 
-<br>
-
-<br>
-
-## Content Covered
-
-| Project      | Description                                 | Docs                            |
-| ------------ | ------------------------------------------- | ------------------------------- |
-|                             |
-| Object Oriented Programming | Object Oriented Programming            | [Link](./src/ObjectOrientedProgramming)|
-| LinkedLists                 | LinkedLists, Stack, Queue              | [Link](./src/LinkedLists) |
-| Trees and Graphs            | Binary Trees, Tries, Heaps, Graphs     | [Link](./src/TreesAndGraphs) |
-| Dynamic Programming         | Recursion, Dynamic Programming         | [Link](./src/DynamicProgramming)  |
-| Sorting Algorithms          | Merge Sort, Quick Sort, Insertion Sort | [Link](./src/Sorting)  |
-| Unit Tests                  | Unit Tests                             | [Link](./src/UnitTests)  |
-
-
 
 <br>
 
