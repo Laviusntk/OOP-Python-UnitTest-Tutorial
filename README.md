@@ -19,12 +19,8 @@
 ### Configuration
 
 ```bash
-git clone https://github.com/Laviusntk/Configurations.git
-
-cd Configurations/Anaconda
-
-chmod 755 ./SetupCondaAIEnvironment.sh
-sh ./SetupCondaAIEnvironment.sh
+chmod 755 ./Utils/Setup.sh
+sh ./Setup.sh
 ```
 ### Runnig the code
 
