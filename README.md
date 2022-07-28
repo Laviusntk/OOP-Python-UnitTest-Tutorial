@@ -19,7 +19,7 @@
 ### Configuration
 
 ```bash
-chmod 755 ./Utils/Setup.sh
+chmod 755 ./Setup.sh
 sh ./Setup.sh
 ```
 ### Runnig the code
